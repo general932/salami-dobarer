@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right, #c8a8e9 , #f3dcdc , #c3c7f3);
+}
+#asshub{
+    font-family: "Gill Sans", sans-serif;
+    position: relative;
+    color: #72769e;
+    border: 5px solid black;
+    border-radius: 10px solid black;
+    border-style: solid;
+    text-align: center;
+}
+#home{
+    position: relative;
+    left: 85%;
+
+}
+#theend{
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    padding-bottom: 50px;
+
+}
+#create{
+    text-align: center;
+    top: 50px;
+    position: relative;
+}
